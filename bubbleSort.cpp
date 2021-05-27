@@ -15,7 +15,7 @@ int main()
  }
 
  int counter = 1;
- while (counter < n)
+ while (counter < n-1)
  {
   for (int i = 0; i < n - counter; i++)
   {
